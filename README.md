@@ -1,2 +1,2 @@
 # Practicas-en-Ensamblador
-Prácticas en Lenguaje Ensamblador
+Prácticas basicas en Lenguaje Ensamblador
